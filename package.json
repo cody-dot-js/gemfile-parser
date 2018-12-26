@@ -13,6 +13,14 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
+  "keywords": [
+    "Ruby",
+    "Gemfile",
+    "gemspec",
+    "parser",
+    "Node",
+    "JSON"
+  ],
   "scripts": {
     "compile": "babel src --out-dir lib --copy-files",
     "precompile": "rm -rf lib",
